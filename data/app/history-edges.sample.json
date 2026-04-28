@@ -1,0 +1,16 @@
+[
+  { "id": "edge-opium-to-nanjing", "source": "opium-war", "target": "treaty-of-nanjing", "type": "cause", "label": "战败签约" },
+  { "id": "edge-opium-to-second", "source": "opium-war", "target": "second-opium-war", "type": "timeline", "label": "半殖民地化加深" },
+  { "id": "edge-second-to-westernization", "source": "second-opium-war", "target": "westernization-movement", "type": "cause", "label": "内忧外患" },
+  { "id": "edge-westernization-to-jiawu", "source": "westernization-movement", "target": "sino-japanese-war-1894", "type": "timeline", "label": "甲午战败暴露局限" },
+  { "id": "edge-jiawu-to-maguan", "source": "sino-japanese-war-1894", "target": "treaty-of-shimonoseki", "type": "cause", "label": "战败签约" },
+  { "id": "edge-maguan-to-reform", "source": "treaty-of-shimonoseki", "target": "hundred-days-reform", "type": "cause", "label": "民族危机加深" },
+  { "id": "edge-reform-to-boxer", "source": "hundred-days-reform", "target": "boxer-protocol", "type": "timeline", "label": "危机继续" },
+  { "id": "edge-boxer-to-1911", "source": "boxer-protocol", "target": "revolution-1911", "type": "cause", "label": "清政府统治危机" },
+  { "id": "edge-1911-to-new-culture", "source": "revolution-1911", "target": "new-culture-movement", "type": "influence", "label": "思想继续变革" },
+  { "id": "edge-new-culture-to-may4", "source": "new-culture-movement", "target": "may-fourth-movement", "type": "influence", "label": "思想铺垫" },
+  { "id": "edge-may4-to-cpc", "source": "may-fourth-movement", "target": "founding-cpc", "type": "influence", "label": "工人运动与马克思主义结合" },
+  { "id": "edge-westernization-compare-reform", "source": "westernization-movement", "target": "hundred-days-reform", "type": "compare", "label": "技术 vs 制度" },
+  { "id": "edge-reform-compare-1911", "source": "hundred-days-reform", "target": "revolution-1911", "type": "compare", "label": "改良 vs 革命" },
+  { "id": "edge-1911-compare-new-culture", "source": "revolution-1911", "target": "new-culture-movement", "type": "compare", "label": "政治革命 vs 思想文化" }
+]

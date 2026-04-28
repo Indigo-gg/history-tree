@@ -1,0 +1,98 @@
+[
+  {
+    "id": "renaissance-vs-new-route",
+    "title": "文艺复兴 vs 新航路开辟",
+    "nodeIds": ["renaissance", "new-route-opening"],
+    "dimensions": [
+      { "name": "领域", "values": { "renaissance": "思想文化领域", "new-route-opening": "地理交通和世界联系" } },
+      { "name": "核心", "values": { "renaissance": "人文主义、思想解放", "new-route-opening": "世界开始连成整体" } },
+      { "name": "共同点", "values": { "renaissance": "都促进资本主义发展", "new-route-opening": "都促进资本主义发展" } }
+    ],
+    "memoryTip": "文艺复兴解放思想，新航路连接世界。",
+    "commonMistake": "把文艺复兴的作用写成世界连成整体。"
+  },
+  {
+    "id": "three-bourgeois-revolutions",
+    "title": "英美法资产阶级革命",
+    "nodeIds": ["english-revolution", "american-independence", "french-revolution"],
+    "dimensions": [
+      { "name": "文件", "values": { "english-revolution": "《权利法案》", "american-independence": "《独立宣言》", "french-revolution": "《人权宣言》" } },
+      { "name": "结果", "values": { "english-revolution": "君主立宪制", "american-independence": "美国独立", "french-revolution": "摧毁封建统治" } },
+      { "name": "特点", "values": { "english-revolution": "限制王权", "american-independence": "反殖民 + 资产阶级革命", "french-revolution": "革命最彻底，影响广泛" } }
+    ],
+    "memoryTip": "英国权利法案，美国独立宣言，法国人权宣言。",
+    "commonMistake": "把《人权宣言》和《独立宣言》混写。"
+  },
+  {
+    "id": "first-vs-second-industrial",
+    "title": "第一次工业革命 vs 第二次工业革命",
+    "nodeIds": ["industrial-revolution", "second-industrial-revolution"],
+    "dimensions": [
+      { "name": "时代", "values": { "industrial-revolution": "蒸汽时代", "second-industrial-revolution": "电气时代" } },
+      { "name": "核心动力", "values": { "industrial-revolution": "蒸汽机", "second-industrial-revolution": "电力、内燃机" } },
+      { "name": "代表", "values": { "industrial-revolution": "瓦特", "second-industrial-revolution": "爱迪生、卡尔·本茨、莱特兄弟" } }
+    ],
+    "memoryTip": "第一次蒸汽，第二次电气。",
+    "commonMistake": "把汽车、飞机写到第一次工业革命。"
+  },
+  {
+    "id": "ww1-vs-ww2",
+    "title": "第一次世界大战 vs 第二次世界大战",
+    "nodeIds": ["world-war-i", "world-war-ii"],
+    "dimensions": [
+      { "name": "时间", "values": { "world-war-i": "1914-1918 年", "world-war-ii": "1939-1945 年" } },
+      { "name": "性质", "values": { "world-war-i": "帝国主义战争", "world-war-ii": "世界人民反法西斯战争" } },
+      { "name": "关键点", "values": { "world-war-i": "萨拉热窝事件、凡尔登战役", "world-war-ii": "反法西斯联盟、斯大林格勒战役" } }
+    ],
+    "memoryTip": "一战帝国主义，二战反法西斯。",
+    "commonMistake": "把两次世界大战的性质写成一样。"
+  },
+  {
+    "id": "new-deal-vs-fascism",
+    "title": "罗斯福新政 vs 法西斯道路",
+    "nodeIds": ["new-deal", "world-war-ii"],
+    "dimensions": [
+      { "name": "面对危机", "values": { "new-deal": "美国通过国家干预经济进行改革", "world-war-ii": "德日等走上法西斯侵略扩张道路" } },
+      { "name": "制度", "values": { "new-deal": "没有改变资本主义制度", "world-war-ii": "法西斯专政和对外侵略" } },
+      { "name": "结果", "values": { "new-deal": "经济缓慢恢复", "world-war-ii": "引发世界大战" } }
+    ],
+    "memoryTip": "同样面对危机，美国改革，德日扩张。",
+    "commonMistake": "把罗斯福新政理解成社会主义改革。"
+  },
+  {
+    "id": "versailles-vs-yalta",
+    "title": "凡尔赛—华盛顿体系 vs 两极格局",
+    "nodeIds": ["versailles-washington-system", "cold-war"],
+    "dimensions": [
+      { "name": "形成时间", "values": { "versailles-washington-system": "一战后", "cold-war": "二战后" } },
+      { "name": "核心", "values": { "versailles-washington-system": "战胜国重新瓜分世界", "cold-war": "美苏两大阵营对峙" } },
+      { "name": "特点", "values": { "versailles-washington-system": "暂时调整帝国主义关系", "cold-war": "政治、经济、军事全面对抗" } }
+    ],
+    "memoryTip": "一战后凡华，二战后冷战两极。",
+    "commonMistake": "把冷战写成一战后的国际秩序。"
+  },
+  {
+    "id": "globalization-vs-multipolarity",
+    "title": "经济全球化 vs 世界多极化",
+    "nodeIds": ["globalization", "multipolarity"],
+    "dimensions": [
+      { "name": "领域", "values": { "globalization": "经济领域", "multipolarity": "政治格局" } },
+      { "name": "关键词", "values": { "globalization": "跨国公司、世界贸易组织、机遇与挑战", "multipolarity": "美国、欧盟、日本、中国、俄罗斯等力量中心" } },
+      { "name": "趋势", "values": { "globalization": "世界经济联系加强", "multipolarity": "世界政治格局朝多极化发展" } }
+    ],
+    "memoryTip": "全球化看经济，多极化看政治。",
+    "commonMistake": "把经济全球化和政治多极化混成一个概念。"
+  },
+  {
+    "id": "meiji-vs-1898",
+    "title": "明治维新 vs 戊戌变法",
+    "nodeIds": ["meiji-restoration", "hundred-days-reform"],
+    "dimensions": [
+      { "name": "国家", "values": { "meiji-restoration": "日本", "hundred-days-reform": "中国" } },
+      { "name": "结果", "values": { "meiji-restoration": "成功，日本走上资本主义道路", "hundred-days-reform": "失败，但起思想启蒙作用" } },
+      { "name": "影响", "values": { "meiji-restoration": "强大后走上侵略扩张道路", "hundred-days-reform": "推动思想解放" } }
+    ],
+    "memoryTip": "明治成功强国，戊戌失败启蒙。",
+    "commonMistake": "只看到都是改革，忽略成败和国家不同。"
+  }
+]

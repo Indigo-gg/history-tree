@@ -1,0 +1,20 @@
+[
+  { "id": "edge-yuanmou-to-beijing", "source": "yuanmou-man", "target": "beijing-man", "type": "timeline", "label": "远古居民" },
+  { "id": "edge-beijing-to-yanhuang", "source": "beijing-man", "target": "yanhuang-ancestors", "type": "timeline", "label": "从远古到传说" },
+  { "id": "edge-yanhuang-to-xia", "source": "yanhuang-ancestors", "target": "xia-dynasty", "type": "timeline", "label": "早期国家" },
+  { "id": "edge-xia-to-hereditary", "source": "xia-dynasty", "target": "hereditary-system", "type": "influence", "label": "王位继承变化" },
+  { "id": "edge-hereditary-to-fenfeng", "source": "hereditary-system", "target": "western-zhou-feudalism", "type": "timeline", "label": "国家制度发展" },
+  { "id": "edge-fenfeng-to-spring", "source": "western-zhou-feudalism", "target": "spring-autumn-warring-states", "type": "timeline", "label": "周王室衰微" },
+  { "id": "edge-spring-to-shangyang", "source": "spring-autumn-warring-states", "target": "shang-yang-reform", "type": "cause", "label": "战国变法" },
+  { "id": "edge-spring-to-hundred-schools", "source": "spring-autumn-warring-states", "target": "hundred-schools", "type": "cause", "label": "社会大变革" },
+  { "id": "edge-shangyang-to-qin", "source": "shang-yang-reform", "target": "qin-unification", "type": "cause", "label": "秦国强大" },
+  { "id": "edge-qin-to-measures", "source": "qin-unification", "target": "qin-measures", "type": "influence", "label": "巩固统一" },
+  { "id": "edge-qin-to-han", "source": "qin-measures", "target": "han-wudi-unification", "type": "timeline", "label": "中央集权发展" },
+  { "id": "edge-han-to-silk-road", "source": "han-wudi-unification", "target": "silk-road", "type": "influence", "label": "汉朝强盛" },
+  { "id": "edge-silk-to-three", "source": "silk-road", "target": "three-kingdoms", "type": "timeline", "label": "秦汉之后" },
+  { "id": "edge-three-to-jiangnan", "source": "three-kingdoms", "target": "jiangnan-development", "type": "timeline", "label": "政权分立" },
+  { "id": "edge-jiangnan-to-wei", "source": "jiangnan-development", "target": "northern-wei-reform", "type": "timeline", "label": "民族交融" },
+  { "id": "edge-fenfeng-compare-junxian", "source": "western-zhou-feudalism", "target": "qin-measures", "type": "compare", "label": "分封制 vs 郡县制" },
+  { "id": "edge-qin-compare-han", "source": "qin-measures", "target": "han-wudi-unification", "type": "compare", "label": "建立 vs 巩固" },
+  { "id": "edge-shangyang-compare-xiaowen", "source": "shang-yang-reform", "target": "northern-wei-reform", "type": "compare", "label": "富国强兵 vs 民族交融" }
+]

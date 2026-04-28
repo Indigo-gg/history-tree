@@ -1,0 +1,23 @@
+[
+  { "id": "edge-sui-to-canal", "source": "sui-unification", "target": "grand-canal-sui", "type": "influence", "label": "统一后的工程" },
+  { "id": "edge-canal-to-exam", "source": "grand-canal-sui", "target": "imperial-exam", "type": "timeline", "label": "隋朝制度建设" },
+  { "id": "edge-exam-to-zhenguan", "source": "imperial-exam", "target": "zhenguan-rule", "type": "timeline", "label": "唐初治理" },
+  { "id": "edge-zhenguan-to-wu", "source": "zhenguan-rule", "target": "wu-zetian", "type": "timeline", "label": "继续发展" },
+  { "id": "edge-wu-to-kaiyuan", "source": "wu-zetian", "target": "kaiyuan-prosperity", "type": "influence", "label": "承上启下" },
+  { "id": "edge-kaiyuan-to-tubo", "source": "kaiyuan-prosperity", "target": "tang-tubo-relations", "type": "timeline", "label": "民族交往" },
+  { "id": "edge-tubo-to-foreign", "source": "tang-tubo-relations", "target": "tang-foreign-exchanges", "type": "timeline", "label": "内外交流" },
+  { "id": "edge-foreign-to-song", "source": "tang-foreign-exchanges", "target": "song-parallel-regimes", "type": "timeline", "label": "唐以后" },
+  { "id": "edge-song-to-south", "source": "song-parallel-regimes", "target": "economic-center-south", "type": "influence", "label": "南方发展" },
+  { "id": "edge-south-to-tech", "source": "economic-center-south", "target": "song-technology-culture", "type": "influence", "label": "经济推动文化" },
+  { "id": "edge-tech-to-yuan", "source": "song-technology-culture", "target": "yuan-unification", "type": "timeline", "label": "宋元更替" },
+  { "id": "edge-yuan-to-province", "source": "yuan-unification", "target": "yuan-province-system", "type": "influence", "label": "管理辽阔疆域" },
+  { "id": "edge-yuan-to-ming", "source": "yuan-province-system", "target": "ming-centralization", "type": "timeline", "label": "地方到皇权" },
+  { "id": "edge-ming-to-zhenghe", "source": "ming-centralization", "target": "zheng-he-voyages", "type": "timeline", "label": "明前期国力" },
+  { "id": "edge-zhenghe-to-qi", "source": "zheng-he-voyages", "target": "qi-jiguang", "type": "timeline", "label": "交往与冲突" },
+  { "id": "edge-qi-to-qing", "source": "qi-jiguang", "target": "qing-frontier", "type": "timeline", "label": "明清之际" },
+  { "id": "edge-qing-to-closed", "source": "qing-frontier", "target": "closed-door-policy", "type": "timeline", "label": "清朝政策" },
+  { "id": "edge-canal-compare-silk", "source": "grand-canal-sui", "target": "silk-road", "type": "compare", "label": "南北 vs 中外" },
+  { "id": "edge-jiangnan-compare-south", "source": "jiangnan-development", "target": "economic-center-south", "type": "compare", "label": "铺垫 vs 完成" },
+  { "id": "edge-junxian-compare-xingsheng", "source": "qin-measures", "target": "yuan-province-system", "type": "compare", "label": "地方制度" },
+  { "id": "edge-zhenghe-compare-closed", "source": "zheng-he-voyages", "target": "closed-door-policy", "type": "compare", "label": "开放交往 vs 限制交流" }
+]

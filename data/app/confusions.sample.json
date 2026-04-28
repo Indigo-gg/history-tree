@@ -1,0 +1,27 @@
+[
+  {
+    "id": "westernization-vs-reform1898",
+    "title": "洋务运动 vs 戊戌变法",
+    "nodeIds": ["westernization-movement", "hundred-days-reform"],
+    "dimensions": [
+      { "name": "阶级", "values": { "westernization-movement": "地主阶级洋务派", "hundred-days-reform": "资产阶级维新派" } },
+      { "name": "学习重点", "values": { "westernization-movement": "西方先进技术", "hundred-days-reform": "西方政治制度" } },
+      { "name": "口号或主张", "values": { "westernization-movement": "自强、求富", "hundred-days-reform": "变法图强" } },
+      { "name": "影响", "values": { "westernization-movement": "中国近代化的开端", "hundred-days-reform": "思想启蒙作用" } }
+    ],
+    "memoryTip": "洋务是技术，戊戌是制度；洋务开端，戊戌启蒙。",
+    "commonMistake": "把洋务运动说成资产阶级改革，或把戊戌变法的影响写成近代化开端。"
+  },
+  {
+    "id": "three-treaties",
+    "title": "《南京条约》vs《马关条约》vs《辛丑条约》",
+    "nodeIds": ["treaty-of-nanjing", "treaty-of-shimonoseki", "boxer-protocol"],
+    "dimensions": [
+      { "name": "时间", "values": { "treaty-of-nanjing": "1842 年", "treaty-of-shimonoseki": "1895 年", "boxer-protocol": "1901 年" } },
+      { "name": "关键词", "values": { "treaty-of-nanjing": "五口通商、香港岛、协定关税", "treaty-of-shimonoseki": "割台湾、赔二亿两、允许开厂", "boxer-protocol": "赔 4.5 亿两、严禁反帝、列强驻兵" } },
+      { "name": "影响", "values": { "treaty-of-nanjing": "开始沦为", "treaty-of-shimonoseki": "大大加深", "boxer-protocol": "完全沦为" } }
+    ],
+    "memoryTip": "南京是开始，马关是大大，辛丑是完全。",
+    "commonMistake": "混淆三个条约对半殖民地化程度的表述。"
+  }
+]

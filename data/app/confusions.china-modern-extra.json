@@ -1,0 +1,62 @@
+[
+  {
+    "id": "nanchang-vs-jinggangshan",
+    "title": "南昌起义 vs 井冈山革命根据地",
+    "nodeIds": ["nanchang-uprising", "jinggangshan-base"],
+    "dimensions": [
+      { "name": "关键词", "values": { "nanchang-uprising": "武装反抗第一枪", "jinggangshan-base": "农村包围城市道路" } },
+      { "name": "意义", "values": { "nanchang-uprising": "创建人民军队、独立领导武装斗争的开始", "jinggangshan-base": "探索中国革命新道路" } },
+      { "name": "记忆", "values": { "nanchang-uprising": "八一", "jinggangshan-base": "根据地" } }
+    ],
+    "memoryTip": "南昌起义看军队，井冈山看道路。",
+    "commonMistake": "把井冈山写成打响第一枪。"
+  },
+  {
+    "id": "918-vs-77",
+    "title": "九一八事变 vs 七七事变",
+    "nodeIds": ["september-18-incident", "lugou-bridge-incident"],
+    "dimensions": [
+      { "name": "时间", "values": { "september-18-incident": "1931 年", "lugou-bridge-incident": "1937 年" } },
+      { "name": "意义", "values": { "september-18-incident": "局部抗战开始", "lugou-bridge-incident": "全民族抗战开始" } },
+      { "name": "地点", "values": { "september-18-incident": "东北沈阳附近", "lugou-bridge-incident": "北平卢沟桥附近" } }
+    ],
+    "memoryTip": "九一八局部，七七全面。",
+    "commonMistake": "把九一八写成全面抗战开始。"
+  },
+  {
+    "id": "taierzhuang-vs-hundred-regiments",
+    "title": "台儿庄战役 vs 百团大战",
+    "nodeIds": ["taierzhuang-battle", "hundred-regiments-offensive"],
+    "dimensions": [
+      { "name": "战场", "values": { "taierzhuang-battle": "正面战场", "hundred-regiments-offensive": "敌后战场" } },
+      { "name": "人物", "values": { "taierzhuang-battle": "李宗仁", "hundred-regiments-offensive": "彭德怀" } },
+      { "name": "地位", "values": { "taierzhuang-battle": "正面战场重大胜利", "hundred-regiments-offensive": "主动出击日军的最大规模战役" } }
+    ],
+    "memoryTip": "台儿庄正面，百团敌后。",
+    "commonMistake": "把百团大战写成国民党正面战场战役。"
+  },
+  {
+    "id": "founding-vs-socialist-system",
+    "title": "新中国成立 vs 社会主义制度建立",
+    "nodeIds": ["founding-prc", "three-transformations"],
+    "dimensions": [
+      { "name": "时间", "values": { "founding-prc": "1949 年", "three-transformations": "1956 年" } },
+      { "name": "意义", "values": { "founding-prc": "中国人民站起来了", "three-transformations": "社会主义基本制度建立" } },
+      { "name": "关键词", "values": { "founding-prc": "开国大典、新纪元", "three-transformations": "生产资料公有制" } }
+    ],
+    "memoryTip": "1949 是新中国，1956 是社会主义制度。",
+    "commonMistake": "把新中国成立说成社会主义制度已经建立。"
+  },
+  {
+    "id": "land-reform-vs-three-transformations",
+    "title": "土地改革 vs 三大改造",
+    "nodeIds": ["land-reform", "three-transformations"],
+    "dimensions": [
+      { "name": "土地/所有制", "values": { "land-reform": "地主土地所有制变为农民土地所有制", "three-transformations": "私有制变为社会主义公有制" } },
+      { "name": "作用", "values": { "land-reform": "农民成为土地主人，巩固政权", "three-transformations": "社会主义基本制度建立" } },
+      { "name": "时间", "values": { "land-reform": "1950-1952 年", "three-transformations": "1953-1956 年" } }
+    ],
+    "memoryTip": "土改还是农民私有，三大改造才到公有制。",
+    "commonMistake": "把土地改革直接说成社会主义公有制建立。"
+  }
+]

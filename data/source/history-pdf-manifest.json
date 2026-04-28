@@ -1,0 +1,13 @@
+{
+  "sourcePdf": "D:\\浏览器下载\\（最全）初中历史知识点归纳汇总.pdf",
+  "pageCount": 55,
+  "charCount": 70318,
+  "lessonCount": 98,
+  "candidateNodeCount": 588,
+  "outputs": [
+    "source/history-pdf-full-text.txt",
+    "source/history-pdf-extracted.md",
+    "source/history-pdf-lessons.json",
+    "app/history-nodes.candidate.json"
+  ]
+}

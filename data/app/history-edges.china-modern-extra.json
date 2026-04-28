@@ -1,0 +1,23 @@
+[
+  { "id": "edge-cpc-to-northern", "source": "founding-cpc", "target": "northern-expedition", "type": "timeline", "label": "国共合作" },
+  { "id": "edge-northern-to-nanchang", "source": "northern-expedition", "target": "nanchang-uprising", "type": "timeline", "label": "合作破裂" },
+  { "id": "edge-nanchang-to-jinggangshan", "source": "nanchang-uprising", "target": "jinggangshan-base", "type": "influence", "label": "武装斗争到革命道路" },
+  { "id": "edge-jinggangshan-to-longmarch", "source": "jinggangshan-base", "target": "long-march", "type": "timeline", "label": "革命根据地斗争" },
+  { "id": "edge-longmarch-to-918", "source": "long-march", "target": "september-18-incident", "type": "timeline", "label": "民族危机" },
+  { "id": "edge-918-to-xian", "source": "september-18-incident", "target": "xian-incident", "type": "cause", "label": "抗日呼声高涨" },
+  { "id": "edge-xian-to-77", "source": "xian-incident", "target": "lugou-bridge-incident", "type": "timeline", "label": "走向全民族抗战" },
+  { "id": "edge-77-to-nanjing", "source": "lugou-bridge-incident", "target": "nanjing-massacre", "type": "timeline", "label": "日军暴行" },
+  { "id": "edge-77-to-taierzhuang", "source": "lugou-bridge-incident", "target": "taierzhuang-battle", "type": "timeline", "label": "正面战场" },
+  { "id": "edge-taierzhuang-to-hundred", "source": "taierzhuang-battle", "target": "hundred-regiments-offensive", "type": "compare", "label": "正面 vs 敌后" },
+  { "id": "edge-hundred-to-seventh", "source": "hundred-regiments-offensive", "target": "seventh-cpc-congress", "type": "timeline", "label": "抗战后期" },
+  { "id": "edge-seventh-to-victory", "source": "seventh-cpc-congress", "target": "victory-war-resistance", "type": "timeline", "label": "抗战胜利" },
+  { "id": "edge-victory-to-chongqing", "source": "victory-war-resistance", "target": "chongqing-negotiation", "type": "timeline", "label": "争取和平" },
+  { "id": "edge-chongqing-to-campaigns", "source": "chongqing-negotiation", "target": "three-campaigns", "type": "timeline", "label": "走向决战" },
+  { "id": "edge-campaigns-to-prc", "source": "three-campaigns", "target": "founding-prc", "type": "timeline", "label": "新中国成立" },
+  { "id": "edge-prc-to-land", "source": "founding-prc", "target": "land-reform", "type": "influence", "label": "巩固政权" },
+  { "id": "edge-land-to-plan", "source": "land-reform", "target": "first-five-year-plan", "type": "timeline", "label": "建设起步" },
+  { "id": "edge-plan-to-transform", "source": "first-five-year-plan", "target": "three-transformations", "type": "timeline", "label": "工业化与制度建立" },
+  { "id": "edge-transform-to-reform", "source": "three-transformations", "target": "reform-opening", "type": "timeline", "label": "社会主义建设发展" },
+  { "id": "edge-reform-to-one-country", "source": "reform-opening", "target": "one-country-two-systems", "type": "timeline", "label": "现代化与统一" },
+  { "id": "edge-one-country-to-diplomacy", "source": "one-country-two-systems", "target": "peaceful-diplomacy", "type": "timeline", "label": "国家发展" }
+]

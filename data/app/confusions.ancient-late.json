@@ -1,0 +1,98 @@
+[
+  {
+    "id": "grand-canal-vs-silk-road",
+    "title": "隋朝大运河 vs 丝绸之路",
+    "nodeIds": ["grand-canal-sui", "silk-road"],
+    "dimensions": [
+      { "name": "方向", "values": { "grand-canal-sui": "沟通南北", "silk-road": "沟通中外" } },
+      { "name": "中心记忆", "values": { "grand-canal-sui": "洛阳为中心，北涿郡，南余杭", "silk-road": "长安出发，经河西走廊和西域" } },
+      { "name": "作用", "values": { "grand-canal-sui": "加强南北政治经济文化交流", "silk-road": "促进东西方经济文化交流" } }
+    ],
+    "memoryTip": "大运河看国内南北，丝绸之路看中外东西。",
+    "commonMistake": "把大运河的作用写成中外交流，或把丝绸之路写成南北交通。"
+  },
+  {
+    "id": "zhenguan-vs-kaiyuan",
+    "title": "贞观之治 vs 开元盛世",
+    "nodeIds": ["zhenguan-rule", "kaiyuan-prosperity"],
+    "dimensions": [
+      { "name": "皇帝", "values": { "zhenguan-rule": "唐太宗", "kaiyuan-prosperity": "唐玄宗前期" } },
+      { "name": "地位", "values": { "zhenguan-rule": "唐初治世", "kaiyuan-prosperity": "唐朝全盛" } },
+      { "name": "记忆点", "values": { "zhenguan-rule": "轻徭薄赋、任用贤才、虚心纳谏", "kaiyuan-prosperity": "政治稳定、经济繁荣、国力强盛" } }
+    ],
+    "memoryTip": "太宗贞观，玄宗开元；贞观是治，开元是盛。",
+    "commonMistake": "把开元盛世写成唐太宗时期。"
+  },
+  {
+    "id": "jianzhen-vs-xuanzang",
+    "title": "鉴真东渡 vs 玄奘西行",
+    "nodeIds": ["tang-foreign-exchanges"],
+    "dimensions": [
+      { "name": "方向", "values": { "tang-foreign-exchanges": "鉴真向东到日本；玄奘向西到天竺" } },
+      { "name": "性质", "values": { "tang-foreign-exchanges": "都体现唐朝中外文化交流活跃" } },
+      { "name": "记忆点", "values": { "tang-foreign-exchanges": "东鉴真，西玄奘" } }
+    ],
+    "memoryTip": "东鉴真，西玄奘。",
+    "commonMistake": "把鉴真和玄奘的方向写反。"
+  },
+  {
+    "id": "jiangnan-vs-economic-south",
+    "title": "江南开发 vs 经济重心南移",
+    "nodeIds": ["jiangnan-development", "economic-center-south"],
+    "dimensions": [
+      { "name": "阶段", "values": { "jiangnan-development": "魏晋南北朝，为后来南移奠定基础", "economic-center-south": "从唐中后期开始，到南宋完成" } },
+      { "name": "原因", "values": { "jiangnan-development": "北人南迁带来劳动力和技术", "economic-center-south": "南方经济持续发展，超过北方" } },
+      { "name": "关键词", "values": { "jiangnan-development": "奠定基础", "economic-center-south": "最终完成" } }
+    ],
+    "memoryTip": "江南开发是前奏，经济重心南移是结果。",
+    "commonMistake": "把经济重心南移的完成时间写到魏晋南北朝。"
+  },
+  {
+    "id": "chenghis-vs-kublai",
+    "title": "成吉思汗 vs 忽必烈",
+    "nodeIds": ["yuan-unification"],
+    "dimensions": [
+      { "name": "人物", "values": { "yuan-unification": "成吉思汗统一蒙古；忽必烈建立元朝" } },
+      { "name": "容易混", "values": { "yuan-unification": "不要把元朝建立者写成成吉思汗" } },
+      { "name": "记忆点", "values": { "yuan-unification": "蒙古看成吉思汗，元朝看忽必烈" } }
+    ],
+    "memoryTip": "蒙古成吉思汗，元朝忽必烈。",
+    "commonMistake": "把成吉思汗写成元朝建立者。"
+  },
+  {
+    "id": "junxian-vs-xingsheng",
+    "title": "郡县制 vs 行省制度",
+    "nodeIds": ["qin-measures", "yuan-province-system"],
+    "dimensions": [
+      { "name": "时期", "values": { "qin-measures": "秦朝", "yuan-province-system": "元朝" } },
+      { "name": "作用", "values": { "qin-measures": "加强中央对地方的直接控制", "yuan-province-system": "管理辽阔疆域，加强中央管辖" } },
+      { "name": "联系", "values": { "qin-measures": "中国古代地方行政制度的重要起点", "yuan-province-system": "对后世省制影响深远" } }
+    ],
+    "memoryTip": "秦郡县，元行省，都是中央管地方。",
+    "commonMistake": "把行省制度说成秦朝创立。"
+  },
+  {
+    "id": "keju-vs-bagu",
+    "title": "科举制 vs 八股取士",
+    "nodeIds": ["imperial-exam", "ming-centralization"],
+    "dimensions": [
+      { "name": "关系", "values": { "imperial-exam": "科举制是考试选官制度", "ming-centralization": "八股取士是明清科举考试内容和形式僵化" } },
+      { "name": "作用", "values": { "imperial-exam": "扩大选官范围，促进教育发展", "ming-centralization": "束缚思想，加强思想控制" } },
+      { "name": "记忆点", "values": { "imperial-exam": "考试选官", "ming-centralization": "格式僵化、思想束缚" } }
+    ],
+    "memoryTip": "科举是制度，八股是后来僵化的考试形式。",
+    "commonMistake": "一看到科举就只写负面作用。"
+  },
+  {
+    "id": "zhenghe-vs-closed-door",
+    "title": "郑和下西洋 vs 闭关锁国",
+    "nodeIds": ["zheng-he-voyages", "closed-door-policy"],
+    "dimensions": [
+      { "name": "态度", "values": { "zheng-he-voyages": "主动和平交往", "closed-door-policy": "严格限制对外交流" } },
+      { "name": "时期", "values": { "zheng-he-voyages": "明朝前期", "closed-door-policy": "清朝" } },
+      { "name": "影响", "values": { "zheng-he-voyages": "促进中外经济文化交流", "closed-door-policy": "使中国逐渐落伍于世界历史发展进程" } }
+    ],
+    "memoryTip": "郑和是走出去，闭关是收回来。",
+    "commonMistake": "把郑和下西洋理解成殖民扩张，或把闭关锁国理解成完全没有贸易。"
+  }
+]

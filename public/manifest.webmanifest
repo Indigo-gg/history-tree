@@ -1,0 +1,26 @@
+{
+  "name": "历史知识树",
+  "short_name": "历史知识树",
+  "description": "面向中考历史复习的知识树、时间线、易混点与 AI 学习助手。",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f1f7f0",
+  "theme_color": "#274d47",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

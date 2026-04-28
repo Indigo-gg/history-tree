@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="历史知识树">
+  <rect width="512" height="512" fill="#274d47"/>
+  <rect x="88" y="70" width="286" height="344" rx="24" fill="#fffdf2" stroke="#0f2e2a" stroke-width="18"/>
+  <rect x="138" y="120" width="188" height="110" fill="#f4d85e"/>
+  <rect x="138" y="258" width="188" height="32" fill="#8eb6ac"/>
+  <rect x="138" y="318" width="148" height="32" fill="#8eb6ac"/>
+  <rect x="374" y="156" width="48" height="208" fill="#7bb8c6" stroke="#0f2e2a" stroke-width="18"/>
+  <circle cx="398" cy="380" r="28" fill="#f4d85e" stroke="#0f2e2a" stroke-width="18"/>
+</svg>

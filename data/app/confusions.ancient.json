@@ -1,0 +1,62 @@
+[
+  {
+    "id": "yuanmou-vs-beijing",
+    "title": "元谋人 vs 北京人",
+    "nodeIds": ["yuanmou-man", "beijing-man"],
+    "dimensions": [
+      { "name": "时间", "values": { "yuanmou-man": "距今约 170 万年", "beijing-man": "距今约 70-20 万年" } },
+      { "name": "地位", "values": { "yuanmou-man": "我国境内目前已知最早人类", "beijing-man": "研究古人类进化的重要代表" } },
+      { "name": "记忆点", "values": { "yuanmou-man": "最早", "beijing-man": "周口店、打制石器、使用火" } }
+    ],
+    "memoryTip": "元谋记最早，北京记周口店和火。",
+    "commonMistake": "把北京人误写成我国境内目前已知最早人类。"
+  },
+  {
+    "id": "abdication-vs-hereditary",
+    "title": "禅让制 vs 世袭制",
+    "nodeIds": ["xia-dynasty", "hereditary-system"],
+    "dimensions": [
+      { "name": "核心", "values": { "xia-dynasty": "禅让制看贤能推举", "hereditary-system": "世袭制看血缘继承" } },
+      { "name": "变化", "values": { "xia-dynasty": "尧舜禹时期常和禅让联系", "hereditary-system": "启继承王位后，家天下取代公天下" } },
+      { "name": "意义", "values": { "xia-dynasty": "早期国家产生", "hereditary-system": "王位继承方式发生变化" } }
+    ],
+    "memoryTip": "公天下到家天下，是从禅让到世袭。",
+    "commonMistake": "只记夏朝建立，忽略启继位代表继承方式变化。"
+  },
+  {
+    "id": "fenfeng-vs-junxian",
+    "title": "分封制 vs 郡县制",
+    "nodeIds": ["western-zhou-feudalism", "qin-measures"],
+    "dimensions": [
+      { "name": "时期", "values": { "western-zhou-feudalism": "西周", "qin-measures": "秦朝" } },
+      { "name": "地方管理", "values": { "western-zhou-feudalism": "周天子分封诸侯", "qin-measures": "中央直接派官吏治理地方" } },
+      { "name": "关键词", "values": { "western-zhou-feudalism": "诸侯、土地、巩固统治", "qin-measures": "郡县、中央集权、直接控制" } }
+    ],
+    "memoryTip": "分封靠诸侯，郡县靠中央派官。",
+    "commonMistake": "把秦朝地方制度写成分封制。"
+  },
+  {
+    "id": "qin-vs-han-wudi",
+    "title": "秦始皇巩固统一 vs 汉武帝大一统",
+    "nodeIds": ["qin-measures", "han-wudi-unification"],
+    "dimensions": [
+      { "name": "政治", "values": { "qin-measures": "建立中央集权，地方推行郡县制", "han-wudi-unification": "颁布推恩令，削弱诸侯国" } },
+      { "name": "思想", "values": { "qin-measures": "焚书坑儒", "han-wudi-unification": "罢黜百家，独尊儒术" } },
+      { "name": "经济", "values": { "qin-measures": "统一货币和度量衡", "han-wudi-unification": "铸币权、盐铁经营权收归中央" } }
+    ],
+    "memoryTip": "秦是建立统一制度，汉武帝是进一步加强大一统。",
+    "commonMistake": "把推恩令写到秦始皇，或把统一文字写到汉武帝。"
+  },
+  {
+    "id": "shangyang-vs-xiaowen",
+    "title": "商鞅变法 vs 北魏孝文帝改革",
+    "nodeIds": ["shang-yang-reform", "northern-wei-reform"],
+    "dimensions": [
+      { "name": "时期", "values": { "shang-yang-reform": "战国秦国", "northern-wei-reform": "北魏" } },
+      { "name": "目的或背景", "values": { "shang-yang-reform": "富国强兵", "northern-wei-reform": "学习汉族文化，顺应民族交融" } },
+      { "name": "影响", "values": { "shang-yang-reform": "秦国强大，为统一奠基", "northern-wei-reform": "促进民族交融" } }
+    ],
+    "memoryTip": "商鞅让秦国强，孝文帝促民族融。",
+    "commonMistake": "看到“改革”就混成同一个作用。"
+  }
+]
