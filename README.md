@@ -10,6 +10,12 @@ https://github.com/Indigo-gg/history-tree/releases/download/v0.1.0/introduce.mp4
 
 > 视频也可在 [Releases 页面](https://github.com/Indigo-gg/history-tree/releases) 下载。
 
+## 📸 页面展示
+
+![历史知识树预览](./public/preview.jpg)
+
+上图展示了“历史主线”页面，左侧为各个历史事件的节点卡片，右侧为节点间的逻辑关系图谱。点击特定节点，右侧还会弹出带有 AI 助手和复习标记功能的侧边栏。
+
 ## ✨ 功能特性
 
 ### 🌲 知识树视图
